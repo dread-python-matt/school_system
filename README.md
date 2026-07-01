@@ -1,5 +1,5 @@
 # 🗓️ School Management & Automatic Timetable Generator
-
+ 
 > A **Spring Boot** REST backend that manages a primary school's students, teachers, subjects and
 > classes — and, as its flagship capability, **generates a conflict-free weekly timetable
 > automatically** using a custom heuristic scheduling algorithm, then exports it to Excel.
